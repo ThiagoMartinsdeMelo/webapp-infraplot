@@ -8,31 +8,7 @@ Crie uma arquitetura de aplicação web básica com: VPC "main_vpc" (10.0.0.0/16
 ## Architecture
 
 infrapilot-diagram.png
-![Diagrama](./images/infrapilot-diagram.png)
-
-## Requirements
-
-No requirements.
-
-## Providers
-
-No providers.
-
-## Modules
-
-No modules.
-
-## Resources
-
-No resources.
-
-## Inputs
-
-No inputs.
-
-## Outputs
-
-No outputs.
+![Diagrama](../images/infrapilot-diagram.png)
 
 ## Requirements
 
